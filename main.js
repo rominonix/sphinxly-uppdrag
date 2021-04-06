@@ -12,7 +12,6 @@ function checkUserInStorage() {
 }
 
 function firstTimeUser() {
-
     username.addEventListener('keyup', (event)=>{
         if(event.keyCode === 13){
             greeter("welcome")
