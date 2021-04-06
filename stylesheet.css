@@ -53,7 +53,7 @@ h1, button, input{
     color: white;
     font-family: 'Spartan', sans-serif;
     font-weight: 800;
-    font-size: 3rem;
+    font-size: 3vw;
 }
 
 img {
@@ -71,7 +71,7 @@ input {
     background-image: url("./assets/input-line.svg");
     background-repeat: no-repeat;
     background-position: bottom;
-    font-size: 3rem;
+    font-size: 3vw;
 }
 
 input:focus {
@@ -89,7 +89,7 @@ button {
     font-weight: 800;
     text-transform: uppercase;
     cursor: pointer;
-    font-size: 1rem;
+    font-size: 1vw;
 }
 
 button:focus {
